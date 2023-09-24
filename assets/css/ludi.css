@@ -7,3 +7,14 @@
   flex-direction: column;
   justify-content: center;
 }
+
+#star-icon {
+  border-radius: 175px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.link-to {
+  border-bottom: none;
+}
