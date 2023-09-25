@@ -18,3 +18,17 @@
 .link-to {
   border-bottom: none;
 }
+
+#footer-flex-box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  /* border: 1px solid white; */
+  width: 250px;
+}
+
+#github-circle {
+  padding-left: 60px;
+}
+
+
