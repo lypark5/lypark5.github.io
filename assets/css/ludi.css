@@ -53,4 +53,16 @@
   padding-left: 60px;
 }
 
+#ex {
+  font-size: 50px;
+  /* font-weight: bold; */
+  /* border: 1px solid white; */
+  margin: 0px;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
